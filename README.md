@@ -56,3 +56,9 @@ python main.py \
   --use_a2f
 
 ```
+
+## System Diagram
+
+![System Diagram](./assets/diagram.png)
+
+_Generated using [gitdiagram.com](https://gitdiagram.com/)_
